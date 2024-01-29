@@ -1,2 +1,2 @@
-# Lab-agile-planning_PW
+# agile-final-project
 This repository contains project work for the stakeholders requirement.
